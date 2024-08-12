@@ -1,9 +1,9 @@
-# Topics Covered
+# Thèmes abordés
 
-Here's a list of all the topics covered in this tutorial for people
-who are looking for a specific thing!
+Sommaire de tous les thèmes couverts par ce tutoriel pour les personnes
+qui cherchent un thème en particulier !
 
-## Basics
+## Principes de base
 
 - [Render Pipelines](/beginner/tutorial3-pipeline)
 - [Vertex Buffers](/beginner/tutorial4-buffer)
@@ -11,13 +11,13 @@ who are looking for a specific thing!
 - [Uniforms](/beginner/tutorial6-uniforms)
 - [Depth Buffer](/beginner/tutorial8-depth)
 
-## Lighting
+## Éclairage
 
 - [Blinn Phong](/intermediate/tutorial10-lighting)
 - [Normal Mapping](/intermediate/tutorial11-normals)
 - [High Dynamic Range (HDR)](/intermediate/tutorial13-hdr)
 
-## Misc
+## Divers
 
 - [Mipmapping](/todo)
 - [Instancing](/beginner/tutorial7-instancing)
