@@ -1,6 +1,6 @@
-# Coming Soon!
+# Prochainement!
 
-This section has not yet been completed.
+Cette section est en cours de rédaction.
 
 <!-- 
 
